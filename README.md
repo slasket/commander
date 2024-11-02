@@ -101,7 +101,8 @@ Plays stuff fromt he graveyard
 ### The Scarab God [link](https://scryfall.com/card/hou/145/the-scarab-god)
 Zombies, everyone else takes dam each turn
 
-## Uncommon commanders
+Uncommon commanders
+===============
 ### Kardur, Doomscourge [link](https://scryfall.com/card/dsc/223/kardur-doomscourge)
 ### Zada, Hedron Grinder [link](https://scryfall.com/card/cmm/268/zada-hedron-grinder)
 probably a bad idea, dont think theres enough good uncommon spells
